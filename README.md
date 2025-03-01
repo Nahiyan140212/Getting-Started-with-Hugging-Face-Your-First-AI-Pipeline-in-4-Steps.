@@ -30,8 +30,8 @@ This repository is a **step-by-step learning resource** designed for anyone look
  ├── 📄 requirements.txt  # Install dependencies  
 ```
 
-** Getting Started
-**Clone the repository
+**Getting Started**
+**Clone the repository**
 
 ``` bash
 git clone https://github.com/your-username/huggingface-guide.git
